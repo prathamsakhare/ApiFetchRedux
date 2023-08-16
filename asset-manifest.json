@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ApiFetchRedux/static/css/main.31d6cfe0.css",
+    "main.js": "/ApiFetchRedux/static/js/main.a61d1299.js",
+    "static/js/787.c3545be5.chunk.js": "/ApiFetchRedux/static/js/787.c3545be5.chunk.js",
+    "index.html": "/ApiFetchRedux/index.html",
+    "main.a61d1299.js.map": "/ApiFetchRedux/static/js/main.a61d1299.js.map",
+    "787.c3545be5.chunk.js.map": "/ApiFetchRedux/static/js/787.c3545be5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a61d1299.js"
+  ]
+}
